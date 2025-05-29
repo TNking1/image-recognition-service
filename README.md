@@ -1,8 +1,5 @@
 # Image Recognition as a Service
 
-### Website Preview
-<img src="webapp_images/project.png" width="900">
-
 
 ----
 
